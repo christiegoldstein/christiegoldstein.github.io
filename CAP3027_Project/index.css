@@ -64,3 +64,27 @@
     text-decoration: none;
     font-size: 17px;
 }
+.content{
+    position: absolute;
+    z-index: 15;
+    top: 35%;
+    left: 35%;
+    margin: -100px 0 0 -150px;
+}
+.index-info{
+    width: 700px;
+    height: 500px;
+    background-color: #EEEEEE;
+    padding: 15px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+}
+
+.shading-img{
+    padding-top: 50px;
+    margin-left: 100px;
+    width: 500px;
+    height: 250px;
+}
