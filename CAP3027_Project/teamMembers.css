@@ -80,23 +80,41 @@
 .team-member{
     width: 700px;
     height: 350px;
-    background-color: #333;
+    background-color: #EEEEEE;
     margin-right: 10px;
     margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
 }
 .team-member-picture{
     width: 220px;
     height: 350px;
     float:left;
+    padding-right: 20px;
 }
 
 .team-member-name{
     padding-top: 20px;
     text-align: center;
-    color:white;
+    color: #333;
+    border-bottom: #333;
+    border-bottom-width: 2px;
 }
 
 .team-member-content{
     padding-left: 10px;
-    color: white;
+    color:  #333;
+}
+
+.team-memeber-info{
+    padding-left: 10px;
+    color:  #333;
+}
+
+.name-div{
+    border-bottom: #333;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    margin-left: 300px;
+    margin-right: 100px;
 }
